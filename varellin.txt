@@ -1,0 +1,10 @@
+Nama Kelompok:10 HTML
+Nama Anggota:   1.DWIYANA
+                2.ESTY
+                3.GHANI
+                4.SABRINA
+                5.SATRIA
+                6.VAREL
+                7.ZAKI
+Project:D:  \coding baru\lirik lagu\HTML.EverythingUAre.py
+Deskripsi:  Proyek ini mengolah teks lirik lagu dan memberikan animasi teks berjalan secara real-time berbasis terminal. Melalui kustomisasi waktu pada setiap karakter dan jeda antar baris, skrip ini menghadirkan pengalaman visual ala tampilan karaoke CLI (Command Line Interface) yang estetik dan minim dependensi.
